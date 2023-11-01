@@ -1,5 +1,5 @@
 # services:
 #   googleAnalytics:
 #     ID: G-123456
-baseURL: https://prabhupatel.com/
+baseURL: http://prabhupatel.com/
 googleAnalytics: G-076N8WCZ
