@@ -1,17 +1,17 @@
-name: Razon Yang
-# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
-bio: 'Gopher, PHPer, Full Stack Engineer.'
-company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
-location: Earth # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+name: Prabhu Patel
+avatar: images/profile1.png # Avatar image. Default to "images/profile.webp".
+bio: Real Time Data Streaming Apache Flink Associate Principal @Options Clearing Corporation (USA) | IEEE Senior Member | IETE Fellow Member
+company: Options Clearing Corporation # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: Dallas, TX # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
 # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
 params: {
   # layout: compact
 }
 # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
 social:
-  email: razonyang@gmail.com
-  github: razonyang/hugo-theme-bootstrap
-  twitter: razonyang
-  patreon: razonyang
-  paypal: razonyang
+  email: prabhu.patel@hotmail.com
+  github: Patel-Prabhu/prabhu-patel.github.io
+  linkedIn: https://www.linkedin.com/in/prabhu-patel/
+#  patreon: razonyang
+#  paypal: razonyang
   rss: "" # Remove RSS

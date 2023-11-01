@@ -1,7 +1,7 @@
-baseURL: https://hbs-skeleton.netlify.app/
-title: Hugo Bootstrap Skeleton
+baseURL: /
+title: Prabhu Patel
 theme: github.com/razonyang/hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2016-{year} Prabhu Patel. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
@@ -31,6 +31,15 @@ permalinks:
   news: /news/:year/:month/:title/
   blog: /blog/:year/:month/:title/
 
+markup:
+  highlight:
+    lineNos: true
+    lineNumbersInTable: false
+    noClasses: false
+  tableOfContents:
+    endLevel: 6
+    ordered: false
+    startLevel: 2
 # module:
   # proxy: https://goproxy.cn
 
